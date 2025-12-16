@@ -123,4 +123,4 @@ export function updateProduct(req, res) {
 
 //add try catch for async
 
-//changes
+//changes done to check
